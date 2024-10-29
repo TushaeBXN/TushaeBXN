@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian! I'm keen engaged Cyber Security Analyst</h1>
+<h1>Hi, Hello, I'm Brian, a dedicated and proactive Cybersecurity Analyst.</h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -11,6 +11,8 @@
 - [Is Leveled Careers Legit?](Coming soon!)
 
 <h2> 🤳 Connect with me:</h2>
+[youtube]: [https://www.youtube.com/@Tushaethomas]
+[linkedin]: https://www.linkedin.com/in/brian-t-24748719/
 
 <!--
 **BrianThomas/BrianThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy creating music and making wine from muscadine grapes
 -->
-[youtube]: [https://www.youtube.com/@Tushaethomas]
-[linkedin]: https://www.linkedin.com/in/brian-t-24748719/
