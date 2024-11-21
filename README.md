@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Microsoft Azure](https://github.com/TushaeBXN/Cloud-SOC)
+  - [On-premises Active Directory Deployed in the Cloud with Azure](https://github.com/TushaeBXN/Onsite-Active-Directory-Deployed-in-the-Cloud)
 
 <h2>📺 YouTube Videos</h2>
 
