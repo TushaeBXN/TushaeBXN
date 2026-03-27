@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Microsoft Azure](https://github.com/TushaeBXN/Cloud-SOC)
-  - [On-premises Active Directory Deployed in the Cloud with Microsoft Azure](https://github.com/TushaeBXN/Onsite-Active-Directory-Deployed-in-the-Cloud)
+  - [On-premises Active Directory Deployed in the Cloud with Microsoft Azure](https://github.com/TushaeBXN/IT-Helpdesk-Onsite-Active-Directory-Deployed-in-the-Cloud)
  
 - <b>Coursera Google Cyber Security Certificate Portfolio</b>
   - [COURSERA-GCS-PORTFOLIO](https://github.com/TushaeBXN/COURSERA-GCS-PORTFOLIO)
