@@ -1,4 +1,5 @@
-<h1>Hi, Hello, I'm Brian, a dedicated and proactive Cybersecurity Analyst.</h1>
+<h1>Hi, Hello, I'm Brian.
+Bridging the gap between AWS Cloud Infrastructure, AI Integration, and Robust Cybersecurity..</h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
