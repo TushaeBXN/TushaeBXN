@@ -3,6 +3,14 @@ Bridging the gap between AWS Cloud Infrastructure, AI Integration, and Robust Cy
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>AI Security Research</b>
+  - [Kerrigan-Fantasma — Custom Security LLM](https://github.com/TushaeBXN/kerrigan-fantasma)
+    - Built a custom Recurrent-Depth Transformer (RDT) from scratch — not a wrapper, not a fine-tune
+    - Autonomous fuzzing loop: writes its own C exploit harnesses, attacks them, learns from crashes
+    - Trained on Linux kernel source, UEFI firmware, CPU architecture specs, CVEs, and 12 languages
+    - Defense-in-depth sandbox: 7-layer code validation, resource limits, Docker isolation
+    - [![Tests](https://github.com/TushaeBXN/kerrigan-fantasma/actions/workflows/test.yml/badge.svg)](https://github.com/TushaeBXN/kerrigan-fantasma/actions/workflows/test.yml)
+
 - <b>Microsoft Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Microsoft Azure](https://github.com/TushaeBXN/Cloud-SOC)
   - [IT Helpdesk On-premises Active Directory Deployed in the Cloud with Microsoft Azure](https://github.com/TushaeBXN/IT-Helpdesk-Onsite-Active-Directory-Deployed-in-the-Cloud.)
@@ -24,10 +32,10 @@ Bridging the gap between AWS Cloud Infrastructure, AI Integration, and Robust Cy
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Improving my portfolio and overall skills in tech
-- 🌱 I’m currently learning: Automation/AI implementation for a SOC
-- 👯 I’m looking to collaborate on: All sorts of projects small or big
-- 🤔 I’m looking for help with: Finding like minded cool tech people 
+- 🔭 I'm currently working on: Improving my portfolio and overall skills in tech
+- 🌱 I'm currently learning: Automation/AI implementation for a SOC
+- 👯 I'm looking to collaborate on: All sorts of projects small or big
+- 🤔 I'm looking for help with: Finding like minded cool tech people 
 - 💬 Ask me about: Send a message I go you
 - 📫 How to reach me: Hit my socail's
 - 😄 Pronouns: He/Him
