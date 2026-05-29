@@ -1,6 +1,15 @@
 <h1>Hi, Hello, I'm Brian.
 Bridging the gap between AWS Cloud Infrastructure, AI Integration, and Robust Cybersecurity..</h1>
 
+<h2>🤖 AI Projects:</h2>
+
+- <b>Custom LLM Research</b>
+  - [Anthos — Custom AI Model](https://github.com/TushaeBXN/anthos)
+    - Thought-Token Bifurcated Recurrent Transformer built from scratch
+    - Custom tokenizer with special tokens: SYS, USR, THT, AST, END
+    - Multi-tier training pipeline: smoke → proof → identity hardening → instruct → distill
+    - Trained on custom identity data and instruction-tuned for conversational reasoning
+
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>AI Security Research</b>
