@@ -13,7 +13,7 @@ Bridging the gap between AWS Cloud Infrastructure, AI Integration, and Robust Cy
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>AI Security Research</b>
-  - [Kerrigan-Fantasma — Custom Security LLM](https://github.com/TushaeBXN/kerrigan-fantasma)
+  - [Kerrigan-Fantasma — Custom Security LLM](https://github.com/TushaeBXN/kerrigan-fantasma-overview)
     - Built a custom Recurrent-Depth Transformer (RDT) from scratch — not a wrapper, not a fine-tune
     - Autonomous fuzzing loop: writes its own C exploit harnesses, attacks them, learns from crashes
     - Trained on Linux kernel source, UEFI firmware, CPU architecture specs, CVEs, and 12 languages
