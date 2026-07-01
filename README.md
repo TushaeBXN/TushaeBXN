@@ -1,6 +1,14 @@
 <h1>Hi, Hello, I'm Brian.
 Bridging the gap between AWS Cloud Infrastructure, AI Integration, and Robust Cybersecurity..</h1>
 
+<h2>📋 AI Governance & Compliance</h2>
+
+- <b>[Anthos GRC — AI Governance, Risk & Compliance Portfolio](https://github.com/TushaeBXN/anthos-grc)</b>
+  - Formal governance documentation for all Anthos AI systems
+  - Mapped to NIST AI RMF 1.0 and ISO/IEC 42001:2023
+  - Covers Kerrigan-Fantasma (Tier 3/4 dual-use) and CyberGuard AI (Tier 3)
+  - Includes org-level policy, master risk register, and system-specific governance cards
+
 <h2>🤖 AI Projects:</h2>
 
 - <b>Custom LLM Research</b>
