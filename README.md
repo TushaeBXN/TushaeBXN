@@ -1,60 +1,98 @@
-<h1>Hi, Hello, I'm Brian.
-Bridging the gap between AWS Cloud Infrastructure, AI Integration, and Robust Cybersecurity..</h1>
+<h1>Brian Thomas</h1>
+<h3>AI Systems Architect · Founder · Anthos Intelligence</h3>
 
-<h2>📋 AI Governance & Compliance</h2>
+<p>
+I build AI systems that shouldn't exist yet — and architect the governance structures that make them safe to deploy. My work sits at the intersection of frontier model design, autonomous agent infrastructure, and AI risk management. I don't fine-tune existing models when the architecture itself is the constraint. I design from first principles, evaluate trade-offs against real operational requirements, and ship systems that organizations can actually govern and trust.
+</p>
 
-- <b>[Anthos GRC — AI Governance, Risk & Compliance Portfolio](https://github.com/TushaeBXN/anthos-grc)</b>
-  - Formal governance documentation for all Anthos AI systems
-  - Mapped to NIST AI RMF 1.0 and ISO/IEC 42001:2023
-  - Covers Kerrigan-Fantasma (Tier 3/4 dual-use) and CyberGuard AI (Tier 3)
-  - Includes org-level policy, master risk register, and system-specific governance cards
+---
 
-<h2>🤖 AI Projects:</h2>
+<h2>Featured Architecture Work</h2>
 
-- <b>Custom LLM Research</b>
-  - [Anthos — Custom AI Model](https://github.com/TushaeBXN/anthos)
-    - Thought-Token Bifurcated Recurrent Transformer built from scratch
-    - Custom tokenizer with special tokens: SYS, USR, THT, AST, END
-    - Multi-tier training pipeline: smoke → proof → identity hardening → instruct → distill
-    - Trained on custom identity data and instruction-tuned for conversational reasoning
+<h3><a href="https://github.com/TushaeBXN/anthos">Anthos — Custom Recurrent Transformer</a></h3>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<p>
+<b>Problem:</b> Fine-tuning frontier models creates dependency on third-party infrastructure, licensing constraints, and alignment behavior you don't control. For a sovereign AI system, that's an architectural risk, not just a technical inconvenience.
+</p>
+<p>
+<b>Decision:</b> Design a Thought-Token Bifurcated Recurrent Transformer from scratch — a custom architecture with a dedicated reasoning channel (THT tokens) that separates internal deliberation from output generation. Custom tokenizer. Custom training pipeline. No upstream model dependency.
+</p>
+<p>
+<b>Trade-off:</b> Significantly higher upfront cost versus LoRA fine-tuning. The return: full architectural control, identity-stable behavior under adversarial prompting, and a system that improves on a training schedule I own entirely.
+</p>
+<p>
+<b>Outcome:</b> Multi-tier training pipeline (smoke → proof → identity hardening → instruct → distill) with validated identity coherence and the foundation for sovereign, auditable AI behavior at the organizational level.
+</p>
 
-- <b>AI Security Research</b>
-  - [Kerrigan-Fantasma — Custom Security LLM](https://github.com/TushaeBXN/kerrigan-fantasma-overview)
-    - Built a custom Recurrent-Depth Transformer (RDT) from scratch — not a wrapper, not a fine-tune
-    - Autonomous fuzzing loop: writes its own C exploit harnesses, attacks them, learns from crashes
-    - Trained on Linux kernel source, UEFI firmware, CPU architecture specs, CVEs, and 12 languages
-    - Defense-in-depth sandbox: 7-layer code validation, resource limits, Docker isolation
-    - [![Tests](https://github.com/TushaeBXN/kerrigan-fantasma/actions/workflows/test.yml/badge.svg)](https://github.com/TushaeBXN/kerrigan-fantasma/actions/workflows/test.yml)
+---
 
-- <b>Microsoft Azure / Cloud Projects</b>
-  - [Creating a Live SOC / Honeynet in Microsoft Azure](https://github.com/TushaeBXN/Cloud-SOC)
-  - [IT Helpdesk On-premises Active Directory Deployed in the Cloud with Microsoft Azure](https://github.com/TushaeBXN/IT-Helpdesk-Onsite-Active-Directory-Deployed-in-the-Cloud.)
- 
-- <b>Coursera Google Cyber Security Certificate Portfolio</b>
-  - [COURSERA-GCS-PORTFOLIO](https://github.com/TushaeBXN/COURSERA-GCS-PORTFOLIO)
+<h3><a href="https://github.com/TushaeBXN/kerrigan-fantasma-overview">Kerrigan-Fantasma — Autonomous Security Research Engine</a></h3>
 
-<h2>📺 YouTube Videos</h2>
+<p>
+<b>Problem:</b> Offensive security tooling is either static (signature-based) or dependent on human analysts to close the loop between discovery and exploitation. Neither scales against modern attack surfaces.
+</p>
+<p>
+<b>Decision:</b> Build a Recurrent-Depth Transformer trained natively on low-level systems knowledge — Linux kernel source, UEFI firmware, CPU architecture specifications, CVEs, and 12 programming languages — with an autonomous fuzzing loop that writes its own exploit harnesses, attacks them, and learns from the results.
+</p>
+<p>
+<b>Trade-off:</b> A self-modifying security system requires a defense-in-depth execution environment that is as rigorous as the threat model it addresses. The 7-layer sandbox (code validation, resource limits, Docker isolation, and more) is not overhead — it is the governance condition that makes autonomous offensive research deployable.
+</p>
+<p>
+<b>Outcome:</b> A Tier 3/4 dual-use AI system with formal risk classification, a contained autonomous research loop, and an architecture that can be audited, governed, and extended — rather than a black-box wrapper around someone else's model.
+</p>
 
-- [How to get into Cybersecurity Starting From Zero](Coming soon!)
-- [Is Leveled Careers Legit?](Coming soon!)
+---
 
-<h2> 🤳 Connect with me:</h2>
-[youtube]: [https://www.youtube.com/@Tushaethomas]
-[linkedin]: https://www.linkedin.com/in/brian-t-24748719/
+<h3><a href="https://github.com/TushaeBXN/runway">Runway — AI Agent Operating System for Nonprofits</a></h3>
 
-<!--
-**BrianThomas/BrianThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<b>Problem:</b> Nonprofits operate with enterprise-level coordination complexity and startup-level resources. Constituent intake, case routing, donor engagement, and compliance reporting consume staff capacity that should be directed toward mission delivery.
+</p>
+<p>
+<b>Decision:</b> Architect a full multi-agent platform — not a chatbot, not an automation script — purpose-built for nonprofit operations. Specialized agents handle intake triage, rights assessment, resource routing, and communications, coordinated through a shared context layer with human oversight checkpoints at every consequential decision.
+</p>
+<p>
+<b>Trade-off:</b> A platform investment versus off-the-shelf SaaS. The return: agents that understand the specific legal, financial, and cultural context of the populations being served — rather than general-purpose tools that require staff to translate between the tool's model of the world and the organization's operational reality.
+</p>
+<p>
+<b>Outcome:</b> Deployed stack (Next.js, PostgreSQL, Prisma, Anthropic SDK) with role-based agent coordination, privacy-preserving data handling, and an architecture designed to scale across organizations without re-engineering per deployment.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I'm currently working on: Improving my portfolio and overall skills in tech
-- 🌱 I'm currently learning: Automation/AI implementation for a SOC
-- 👯 I'm looking to collaborate on: All sorts of projects small or big
-- 🤔 I'm looking for help with: Finding like minded cool tech people 
-- 💬 Ask me about: Send a message I go you
-- 📫 How to reach me: Hit my socail's
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy creating music and making wine from muscadine grapes
--->
+<h3><a href="https://github.com/TushaeBXN/push-job">Push-Job — AI Workflow Orchestration</a></h3>
+
+<p>
+<b>Problem:</b> Most AI integrations are point solutions — a model call here, an automation trigger there. That approach doesn't compose. When workflows span multiple models, data sources, and decision points, ad hoc integrations become the reliability bottleneck.
+</p>
+<p>
+<b>Decision:</b> Design a structured workflow orchestration layer where AI reasoning steps are first-class architectural components — with defined inputs, outputs, failure modes, and retry semantics — rather than imperative scripts wrapped around API calls.
+</p>
+<p>
+<b>Outcome:</b> A composable workflow architecture that treats AI inference as a managed resource, enabling reliable multi-step pipelines that can be monitored, audited, and extended without rearchitecting from scratch.
+</p>
+
+---
+
+<h2>AI Governance & Compliance</h2>
+
+<h3><a href="https://github.com/TushaeBXN/anthos-grc">Anthos GRC — AI Governance, Risk & Compliance</a></h3>
+
+<p>
+<b>Problem:</b> AI systems are being deployed into consequential domains — security research, constituent services, organizational decision support — without governance frameworks that match their risk profile. The absence of formal AI governance isn't a documentation gap; it's a liability that compounds with every deployment.
+</p>
+<p>
+<b>Decision:</b> Build and maintain a formal AI governance portfolio mapped to NIST AI RMF 1.0 and ISO/IEC 42001:2023 — not as compliance theater, but as operational infrastructure. Every system I build carries a system-specific governance card, a risk classification, and a documented control set before it is deployed.
+</p>
+<p>
+<b>Scope:</b> Covers Kerrigan-Fantasma (Tier 3/4 dual-use autonomous system), CyberGuard AI (Tier 3 security console), and the Anthos model ecosystem. Includes org-level AI policy, master risk register, incident response posture, and third-party model governance for all upstream dependencies.
+</p>
+<p>
+<b>Why this matters:</b> As AI regulation accelerates globally, organizations that treat governance as an afterthought will face both operational and legal exposure. The Anthos GRC framework is my answer to that risk — applied to my own systems first, extensible to others.
+</p>
+
+---
+
+<h2>Connect</h2>
+
+[LinkedIn](https://www.linkedin.com/in/brian-t-24748719/)
