@@ -17,6 +17,7 @@ AI lab shipping open-source tools used in real environments.
 ## Hire-Ready Projects
 | Project | What It Shows |
 |---------|--------------|
+| [Sovereign-Sentinel](https://github.com/TushaeBXN/Sovereign-Sentinel) | AWS Capstone — serverless emergency preparedness platform, PM & Security Lead, 0 vulnerabilities |
 | [Cloud-SOC-Azure-Sentinel-Honeynet](https://github.com/TushaeBXN/Cloud-SOC-Azure-Sentinel-Honeynet) | Live Azure SOC — Sentinel, KQL, 98 incidents → 0 |
 | [Active-Directory-Azure-Deployment](https://github.com/TushaeBXN/Active-Directory-Azure-Deployment) | Domain Controller, IAM, PowerShell provisioning |
 | [CyberGuard AI](https://github.com/TushaeBXN/cyberguard) | Live endpoint security console, honeypot detection |
