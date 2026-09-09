@@ -22,7 +22,7 @@ AI lab shipping open-source tools used in real environments.
 | [Active-Directory-Azure-Deployment](https://github.com/TushaeBXN/Active-Directory-Azure-Deployment) | Domain Controller, IAM, PowerShell provisioning |
 | [CyberGuard AI](https://github.com/TushaeBXN/cyberguard) | Live endpoint security console, honeypot detection |
 | [Inkova](https://github.com/TushaeBXN/inkova) | Shipped open-source product, 12 tools, local AI |
-| [Push Job](https://github.com/TushaeBXN/push-job) | AI job search pipeline, 60+ portals, Claude Code |
+| [eks-terraform-project](https://github.com/TushaeBXN/eks-terraform-project) | Production-grade EKS cluster — modular Terraform, remote state, validated at $0 cloud spend |
 
 ---
 
