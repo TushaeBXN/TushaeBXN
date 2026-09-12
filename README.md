@@ -15,6 +15,8 @@ AWS certified with live Azure SOC experience (Microsoft Sentinel, KQL, real atta
 
 ## ☁️ Cloud Engineering Portfolio
 
+<img width="1408" height="768" alt="AWS Cloud Engineering Portfolio" src="https://github.com/user-attachments/assets/a1dbc57e-7ba2-42af-a075-a5c6f1b32f80" />
+
 Three connected repos, each one built because the previous one exposed a real gap —
 provision it, secure and ship it, then prove it's reliable.
 
